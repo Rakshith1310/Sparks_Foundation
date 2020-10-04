@@ -13,4 +13,4 @@ This algorithm is used to find the groups which have bot been explicitely labell
 kmeans.transform(dataset) method measurees each instances in dataset to every centroid and returns n,k dimensioned array, where k is #of clusters and n is the #of instances in dataset.
 
 Task3.    Decision Tree Algorithm
-For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. This classifies the dataset according to its target variable as per the users' favour.
